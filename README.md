@@ -1,5 +1,5 @@
 ✋ Hand Gesture Detection System
-
+ 
 An intelligent computer vision system that recognizes and classifies hand gestures in real time using deep learning. This project leverages image processing and trained models to accurately detect gestures such as fist, open hand, and thumbs up, enabling seamless human-computer interaction.
 
 🚀 Overview
